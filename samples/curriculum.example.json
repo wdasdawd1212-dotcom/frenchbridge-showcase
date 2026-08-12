@@ -1,0 +1,29 @@
+{
+  "note": "Reduced, non-production schema example",
+  "week": 1,
+  "level": "A1",
+  "theme": "Characters, objects and place",
+  "literature": {
+    "author": "Jean de La Fontaine",
+    "title": "Le Corbeau et le Renard",
+    "year": "1668",
+    "excerpt": "Short attributed public-domain excerpt omitted from this showcase dataset."
+  },
+  "units": [
+    {
+      "kind": "reading",
+      "goal": "Identify familiar people, objects and locations.",
+      "completionEvidence": "Correct source-based reading check"
+    },
+    {
+      "kind": "media",
+      "goal": "Complete a guided task on an official external source.",
+      "completionEvidence": "Persistent task checklist"
+    },
+    {
+      "kind": "response",
+      "goal": "Write a short source-based response.",
+      "completionEvidence": "Autosaved response and source check"
+    }
+  ]
+}
